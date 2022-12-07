@@ -1,0 +1,107 @@
+.head {
+    background-color: #b2e5db;
+}
+
+.container {
+    font-size: 12px;
+}
+
+.righthead {
+    display: flex;
+}
+
+.left_head {
+    padding: 0px 20px;
+}
+
+.reference_bill {
+    background-color: #339682;
+    width: 100%;
+    color: white;
+    font-size: 30px;
+    padding: 30px;
+}
+
+.info_client th {
+    color: #339682;
+}
+
+.table {
+    width: 100%;
+    text-align: left;
+}
+
+.date {
+    display: flex;
+    background-color: #b2e5db;
+    justify-content: space-around;
+}
+
+.value {
+    color: #263238;
+}
+
+.title {
+    color: #339682;
+}
+
+.info_client {
+    background-color: #b2e5db;
+    padding: 10px 30px;
+    text-align: left;
+}
+
+.operation_table {
+    padding: 50px;
+}
+
+.operation_table .table th {
+    color: #339682;
+    padding-bottom: 3px;
+}
+
+.operation_table td {
+    padding: 10px 0px;
+}
+
+.operation_table table {
+    border-collapse: collapse;
+}
+
+.operation_table th {
+    border-bottom: 1px solid #339682;
+}
+
+.result_table table {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+.result_table tbody {
+    border-top: 2px solid black;
+}
+
+.result_table {
+    float: right;
+    padding: 10px 0px 10px 40px;
+    width: 50%;
+}
+
+.result_table td {
+    float: right;
+    text-align: right;
+}
+
+.result_table table tr {
+    padding: 15px 0px;
+}
+
+.details {
+    float: right;
+    padding: 10px 0px 10px 40px;
+    width: 50%;
+}
+
+.table-condensed {
+    background-color: #b2e5db;
+}
